@@ -3517,9 +3517,12 @@ input, select, textarea {
 		
 	}
 
+
+
 	#responsivewebdesign {
 		height: 135%;
 		width: 135%;
+		
 	}
 
 	#contact-fname, #contact-email {
@@ -3545,3 +3548,37 @@ input, select, textarea {
 	  .disabled-button {
 		pointer-events: none;
 	  }
+
+	  @media screen and (max-width: 600px) {
+		#responsivewebdesign {
+			height: 100%;
+			width: 100%;
+		}
+
+		#headshot {
+			height: 100%;
+			width: 100%;
+		}
+
+		.major-icons {
+			margin-left: 12.5%;
+			width: 80%;
+		}
+	}
+	
+	@media (min-width: 601px) and (max-width: 900px) {
+		#responsivewebdesign {
+			height: 100%;
+			width: 100%;
+		}
+
+		#headshot {
+			height: 100%;
+			width: 100%;
+		}
+
+		.major-icons {
+			margin-left: 23%;
+			width: 70%;
+		}
+	}
