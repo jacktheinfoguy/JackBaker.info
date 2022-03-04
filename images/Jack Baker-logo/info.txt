@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: unb_pro_light
+font link: http://www.marca.unb.br/fontesunb.php
+font author: Universidade de Brasilia
+font author site: http://www.marca.unb.br/introducao.php
+Slogan Font: WorkSans-Light.ttf
+
+icon designer: Markus
+icon designer link: /hrsaxa
+        
+{"bg-gradient-0":"#08C7D6","bg-gradient-1":"#02023E","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
